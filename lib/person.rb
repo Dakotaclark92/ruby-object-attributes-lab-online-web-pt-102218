@@ -1,3 +1,4 @@
 class Person
   
-  def job=()
+  def name=(perons_name)
+    
